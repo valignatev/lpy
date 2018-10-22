@@ -46,9 +46,9 @@ Q: How do I follow to the current symbol's definition?
 A: ~M-.~.
 
 Q: How do I go back from there?
-A: =M-,=.
+A: ~M-,~.
 
-Q: Does =M-,= also bring me back after ~g~?
+Q: Does ~M-,~ also bring me back after ~g~?
 A: Yes.
 
 ** Eval in more detail
